@@ -6,8 +6,8 @@ Automação do **WPS (WRF Preprocessing System)**: execução integrada de
 Este repositório contém:
 
 - `wps_run.sh` → script shell que roda todo o fluxo do WPS (geogrid + ungrib PLEV + ungrib SFC + metgrid)  
-- `Download_era5_pressure_level.py` → script Python para download dos dados ERA5 em níveis de pressão  
-- `Download_era5_single_level.py` → script Python para download dos dados ERA5 em superfície (single levels)  
+- `Download_era5_pressure_level_WRF.py` → script Python para download dos dados ERA5 em níveis de pressão  
+- `Download_era5_single_level_WRF.py` → script Python para download dos dados ERA5 em superfície (single levels)  
 
 ---
 
